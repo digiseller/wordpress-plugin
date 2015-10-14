@@ -6,11 +6,11 @@ Tested up to: 4.3.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy integration of http://digiseller.ru into you website.
+Easy integration of http://digiseller.ru into your website.
 
 == Description ==
 
-Easy integration of http://digiseller.ru into you website.
+Easy integration of http://digiseller.ru into your website.
 
 == Installation ==
 

@@ -6,7 +6,7 @@
 /*
 Plugin Name: Digiseller
 Plugin URI: https://github.com/digiseller/wordpress-plugin
-Description: Easy integration of http://digiseller.ru into you site.
+Description: Easy integration of http://digiseller.ru into your website.
 Author: Digiseller
 Version: 1.0.0
 Author URI: http://digiseller.ru

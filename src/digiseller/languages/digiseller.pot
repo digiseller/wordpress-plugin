@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-14 19:04+0400\n"
+"POT-Creation-Date: 2018-05-16 15:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,66 +21,78 @@ msgstr ""
 msgid "attribute id is not set"
 msgstr ""
 
-#: digiseller.php:160
-msgid "Menu items can be configured in"
-msgstr ""
-
-#: digiseller.php:160
-msgid "settings"
-msgstr ""
-
-#: digiseller.php:161
+#: digiseller.php:178
 msgid "Only your products can be added into cart (not partners' products)"
 msgstr ""
 
-#: digiseller.php:186
-msgid "Page"
+#: digiseller.php:181
+msgid "Menu items can be configured in"
 msgstr ""
 
-#: digiseller.php:191
-msgid "SellerID"
+#: digiseller.php:182
+msgid "settings"
 msgstr ""
 
-#: digiseller.php:196
-msgid "Logo"
+#: digiseller.php:185
+msgid "Overwrites some default styles of wordpress theme"
 msgstr ""
 
-#: digiseller.php:201
-msgid "Search"
-msgstr ""
-
-#: digiseller.php:206
-msgid "Cart"
+#: digiseller.php:205
+msgid "Select what to show on site"
 msgstr ""
 
 #: digiseller.php:211
-msgid "Purchases"
+msgid "Page"
 msgstr ""
 
 #: digiseller.php:216
-msgid "Language selector"
+msgid "SellerID"
 msgstr ""
 
 #: digiseller.php:221
-msgid "Categories"
+msgid "Logo"
 msgstr ""
 
 #: digiseller.php:226
+msgid "Search"
+msgstr ""
+
+#: digiseller.php:231
+msgid "Cart"
+msgstr ""
+
+#: digiseller.php:236
+msgid "Purchases"
+msgstr ""
+
+#: digiseller.php:241
+msgid "Language selector"
+msgstr ""
+
+#: digiseller.php:246
+msgid "Categories"
+msgstr ""
+
+#: digiseller.php:251
 msgid "Bottom menu"
 msgstr ""
 
-#: digiseller.php:250
+#: digiseller.php:256
+msgid "Output to full page width"
+msgstr ""
+
+#: digiseller.php:281
 msgid "&mdash; Select &mdash;"
 msgstr ""
 
-#: digiseller.php:269
+#: digiseller.php:300
 msgid "Hide"
 msgstr ""
 
-#: digiseller.php:270
+#: digiseller.php:301
 msgid "Horizontal"
 msgstr ""
 
-#: digiseller.php:271
+#: digiseller.php:302
 msgid "Vertical"
 msgstr ""
